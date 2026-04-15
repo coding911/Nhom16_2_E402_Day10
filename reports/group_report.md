@@ -4,10 +4,12 @@
 **Thành viên:**
 | Tên | Vai trò (Day 10) | Email |
 |-----|------------------|-------|
-|  |  |  |
+| Lại Đức Anh | Sprint 1–2 owner: ingestion, schema mapping, cleaning rules, quarantine, validate, idempotent embed | laiducanh26112004@gmail.com |
+| Hoàng Ngọc Thạch | Sprint 3 owner: inject corruption, before/after retrieval eval, quality report | hnthach97@gmail.com |
+| Nguyễn Minh Trí | Sprint 4 owner: monitoring, freshness check, runbook, docs hoàn thiện và báo cáo cuối | coding0911@gmail.com |
 
 **Ngày nộp:** 2026-04-15  
-**Repo:** Lecture-Day-08-09-10  
+**Repo:** https://github.com/coding911/Nhom16_2_E402_Day10  
 **Độ dài khuyến nghị:** 600–1000 từ
 
 ---
