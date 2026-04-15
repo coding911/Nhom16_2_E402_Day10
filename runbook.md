@@ -1,9 +1,5 @@
 # Runbook — Lab Day 10 (incident tối giản)
 
-**Maintainer:** HoangNgocThach  
-**Cập nhật:** 2026-04-15  
-**Áp dụng cho:** pipeline `etl_pipeline.py`, collection `day10_kb`, manifest tại `artifacts/manifests/`
-
 ---
 
 ## Symptom
